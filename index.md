@@ -1,1 +1,1 @@
-<head><meta charset="utf-8"><link rel="shortcut icon" href="/React-PortFolio/favicon.ico"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no"><link rel="manifest" href="/React-PortFolio/manifest.json"><title>Weaklion PortFolio</title><link href="/React-PortFolio/static/css/main.ae387595.chunk.css" rel="stylesheet"></head>
+<title>Weaklion PortFolio</title>
