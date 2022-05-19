@@ -1,0 +1,10 @@
+.typer-text {
+    border-right: 0.1em solid #202020;
+    font-size: 4vw;
+    white-space: pre;
+    line-height: 1;
+    letter-spacing: .1rem;
+    padding-top: 0.2em;
+    -webkit-animation: blink 1s step-end infinite;
+    animation:blink 1s step-end infinite;
+}
