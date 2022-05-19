@@ -263,7 +263,7 @@ html {
 }
 
 .Row {
-    display: flex;
+    
     flex-wrap: wrap;
 
 }
@@ -280,7 +280,7 @@ html {
 }
 
 .Box_image {
-    width: 50%;
+    width: 70%;
 
 }
 
@@ -293,6 +293,7 @@ html {
     font-family: 'Gothic A1', sans-serif;
     padding: 14px;
     margin-left: 2rem;
+    width:100%;
 }
 
 .Box_content {
