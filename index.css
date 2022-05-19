@@ -359,6 +359,9 @@ html {
 
     }
 
+    .Box_info {
+        margin-left: 0 !important;
+    }
 
 }
 
